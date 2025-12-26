@@ -1,4 +1,4 @@
-# 🇹🇳 Stable Wi-Fi Configuration Guide (5G Routers – Tunisia)
+# ![](https://hatscripts.github.io/circle-flags/flags/tn.svg) Stable Wi-Fi Configuration Guide (5G Routers – Tunisia)
 
 This guide provides a **stable Wi-Fi configuration** for 5G routers commonly used in Tunisia  
 (Ooredoo / Tunisie Telecom / Orange), especially when using **wireless repeaters or extenders**.
@@ -75,7 +75,7 @@ This guide provides a **stable Wi-Fi configuration** for 5G routers commonly use
 
 ---
 
-## 🇹🇳🇸🇦 الدليل بالعربية
+## 🇸🇦 الدليل بالعربية
 
 ### 📡 إعدادات راوتر 5G
 
