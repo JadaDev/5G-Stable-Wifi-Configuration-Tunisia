@@ -1,11 +1,11 @@
-# <img src="https://hatscripts.github.io/circle-flags/flags/tn.svg" width="48" /> Stable Wi-Fi Configuration Guide (5G Routers – Tunisia)
+# <img src="https://hatscripts.github.io/circle-flags/flags/tn.svg" width="36" /> Stable Wi-Fi Configuration Guide (5G Routers – Tunisia)
 
 This guide provides a **stable Wi-Fi configuration** for 5G routers commonly used in Tunisia  
 (Ooredoo / Tunisie Telecom / Orange), especially when using **wireless repeaters or extenders**.
 
 ---
 
-## 🇫🇷 Guide en Français
+## <img src="https://hatscripts.github.io/circle-flags/flags/fr.svg" width="30" /> Guide en Français
 
 ### 📡 Configuration du routeur 5G
 
@@ -40,7 +40,7 @@ This guide provides a **stable Wi-Fi configuration** for 5G routers commonly use
 
 ---
 
-## 🇬🇧 English Guide
+## <img src="https://hatscripts.github.io/circle-flags/flags/gb.svg" width="30" /> English Guide
 
 ### 📡 5G Router Configuration
 
@@ -75,7 +75,7 @@ This guide provides a **stable Wi-Fi configuration** for 5G routers commonly use
 
 ---
 
-## 🇸🇦 الدليل بالعربية
+## <img src="https://hatscripts.github.io/circle-flags/flags/sa.svg" width="30" /> الدليل بالعربية
 
 ### 📡 إعدادات راوتر 5G
 
